@@ -9,6 +9,12 @@
 
 ***
 
+### Link do Tinkercad
+
+**https://www.tinkercad.com/things/gRkj0jkTFoE-gs-blue-future**
+
+***
+
 ### Componentes utilizados
 
 * 1 Arduino Uno R3
